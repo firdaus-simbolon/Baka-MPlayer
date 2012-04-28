@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1335649748 source:c:\users\daniel\programs\bmplayerinstaller\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<winsock.h>
+
+1335651549 source:c:\users\daniel\baka-mplayer\installer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<winsock.h>
+
